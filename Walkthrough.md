@@ -18,7 +18,7 @@ When we go to the http://ip and check the page source code,we can see there is a
 
 So we can use hydra to bruteforce the credentials.
 
-	hydra -l steve -P rockyou.txt ssh://10.10.241.107
+	hydra -l steve -P rockyou.txt ssh://ip
 
 #Results: 
 
