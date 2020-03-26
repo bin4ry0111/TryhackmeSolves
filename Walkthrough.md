@@ -1,6 +1,6 @@
-#JOYSTICK [HARD]
+#JOYSTICK CTF
 
-#Mackines ip: 10.10.241.107
+#Machines ip: 10.10.241.107
 	
 	cmd: nmap -A -v -p- <ip> 
 	open ports:
