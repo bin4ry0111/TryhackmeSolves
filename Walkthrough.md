@@ -25,8 +25,10 @@ Now lets ssh the ip..and see whats there
 	
 	ok..we got our first flag in user.txt 
 		ans 1: [flag{is_only_gaem}]
+		
 So,when go to home we see there is another user named notch.
-in there,we get the final flag root.txt
+
+	in there,we get the final flag root.txt
 		ans 2: [flag{poorly_configured_permissions}]
 
 
